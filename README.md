@@ -8,13 +8,15 @@ If you like it, please consider leaving a github star.  I think that it would be
 ## the autoresponse
 
 ```
-Thanks so much for reaching out. I'm always interested in hearing about what new and exciting opportunities are out there. 
+Thanks for reaching out. I am interested in hearing about the new and exciting opportunities available out there. 
 
-As an experienced technology executive I'm sure you can imagine that I hear from many recruiters on LinkedIn.  This is a wonderful privilege for which I am greatful to God. It does mean however, I don’t have the time to hop on a call with everyone who reaches out. Often, incoming requests represent a poor fit.
+As an experienced technology executive I'm sure you can imagine I hear from many recruiters on LinkedIn.  This is a real privilege for which I am greatful to God and to the freedom American Individual Liberty provides. It does mean however I don’t have the time to hop on a call with everyone who reaches out. Often, incoming requests represent a poor fit.
 
-I am happy to extend our conversation beyond this message and before I do, I must insist we clarify the opportunity you are describing. To this end, please send along the company name, detailed job description and total compensation details for the role you're reaching out in reference to. 
+I am happy to extend our conversation beyond this message, before doing so I must insist upon clarification of the opportunity you are presenting.  To this end, please send along the *company name*, *detailed* job description and *total compensation* for the role you're reaching out in reference to. 
 
-While I very much appreciate the fact that exceptionally talented and engaged recruiters reach out thoughtfully, sorting the serious and high quality opportunities from spam would occupy too much of my time without this initial autoresponder. In the absence of this detailed information regarding the nature of the opportunity in question, I will be unavailable for further discussion.
+While I very much appreciate the fact that exceptionally talented and engaged recruiters reach out thoughtfully, sorting the serious, high quality, opportunities from the (prodigous) spam would occupy too much of my time without this autoresponder. 
+
+In the absence of the detailed information (outlined above) regarding the nature of the opportunity in question, I will be unavailable for further discussion.
 
 Thanks again for reaching out and I look forward to hearing from you!
 
